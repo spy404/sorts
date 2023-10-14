@@ -32,5 +32,6 @@ export function bucketSort(list, size) {
       sorted.push(arr[iSorted])
     }
   }
+  
   return sorted
 }
