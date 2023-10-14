@@ -11,6 +11,7 @@ const Timsort = (array) => {
       Merge(array, left, mid, right)
     }
   }
+  
   return array
 }
 
